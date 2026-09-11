@@ -15,25 +15,41 @@ I build reliable, maintainable test automation and quality practices across **we
 
 ## 👋 About Me
 
-I’m **Mahmoud Helal**, a Software Tester and Automation QA Engineer focused on turning business requirements into dependable, repeatable quality checks.
+I’m **Mahmoud Helal**, a Software Testing Engineer and Automation QA Engineer with experience in **real-world application testing, defect investigation, test automation, and software testing training**.
 
 My current direction is:
 
 **Software Testing → Automation QA → SDET / Quality Engineering**
 
-I enjoy building practical automation frameworks, improving test coverage, investigating defects, and making quality visible throughout the delivery lifecycle.
+I enjoy turning business requirements into dependable test coverage, investigating defects, building maintainable automation, and making quality visible throughout the delivery lifecycle.
+
+## 💼 Professional Experience
+
+### Software Testing Engineer — SYAD
+
+I work on real-world applications and e-services, with a strong focus on **functional quality, business workflows, regression, defect investigation, and production support**.
+
+- Test business-critical workflows across **electronic lottery, Madinty, grants, and GIS-related applications**.
+- Design and execute test cases for positive, negative, regression, system, and end-to-end scenarios.
+- Investigate reported issues, reproduce defects, document findings, and communicate actionable results to development teams.
+- Validate fixes and perform regression testing to reduce the risk of introducing new defects.
+- Support production-related issues by analyzing reported behavior and helping identify the affected workflow or functionality.
+- Work with business requirements and acceptance criteria to verify that delivered functionality behaves as expected.
+- Apply practical QA techniques across web applications, data validation, API-oriented testing, and defect lifecycle management.
+
+**Focus:** Production Quality • Functional Testing • Regression Testing • Defect Investigation • Business Workflow Validation • GIS / E-Service Applications
 
 ## 🧰 Core Toolkit
 
 | Area | Tools & Technologies |
 |---|---|
 | UI Automation | Java, Selenium WebDriver, TestNG, Cucumber, POM |
-| API Testing | Postman, REST Assured, Newman |
+| API Testing | Postman, Newman |
 | Database | SQL, MySQL, database validation |
 | Performance | JMeter, Locust |
-| Build & CI | Maven, Git, GitHub Actions |
+| Build & Version Control | Maven, Git, GitHub |
 | Quality | ISTQB CTFL v4.0, functional, regression, system & acceptance testing |
-| Tracking | Jira, Xray, Azure DevOps |
+| Test Management | Jira, Xray, Azure DevOps |
 
 ## ⭐ Featured Portfolio
 
@@ -45,14 +61,14 @@ A maintainable UI automation suite designed around critical CRM workflows, reusa
 ➡️ **[View CRM-Automation-Test](https://github.com/MahmodHelal/CRM-Automation-Test)**
 
 ### 🔹 Royal Grant Automation
-**Web Automation • Regression-oriented testing**
+**Java • Selenium • Cucumber • TestNG • Maven**
 
-A practical automation project representing real-world business workflow testing.
+A practical automation project representing a multi-role business workflow with reusable automation components, reporting, and regression-oriented scenarios.
 
 ➡️ **[View Royal-Grant-Automation](https://github.com/MahmodHelal/Royal-Grant-Automation)**
 
 ### 🔹 Web Testing Project
-**Software Testing • Web Application Testing**
+**Software Testing • Web Application Testing • Cucumber • TestNG**
 
 A testing-focused project demonstrating practical web testing work and QA fundamentals.
 
@@ -94,6 +110,10 @@ I aim to automate the **right** checks—not simply automate everything.
 - Performance testing with JMeter / Locust
 - AI-assisted testing and automation workflows
 - SDET-oriented automation architecture
+
+## 📜 Certification
+
+**ISTQB Certified Tester — Foundation Level (CTFL) v4.0**
 
 ## 📌 Engineering Principles
 
