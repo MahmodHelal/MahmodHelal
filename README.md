@@ -67,12 +67,12 @@ A practical automation project representing a multi-role business workflow with 
 
 ➡️ **[View Royal-Grant-Automation](https://github.com/MahmodHelal/Royal-Grant-Automation)**
 
-### 🔹 Web Testing Project
-**Software Testing • Web Application Testing • Cucumber • TestNG**
+### 🔹 nopCommerce E-Commerce Automation
+**Java • Selenium • Cucumber • TestNG • Maven**
 
-A testing-focused project demonstrating practical web testing work and QA fundamentals.
+A BDD-oriented UI automation project covering core e-commerce journeys including registration, product search, shopping cart, and checkout.
 
-➡️ **[View Web-Testing-project](https://github.com/MahmodHelal/Web-Testing-project)**
+➡️ **[View Amit_52proj](https://github.com/MahmodHelal/Amit_52proj)**
 
 ### 🔹 CV & Professional Profile
 ➡️ **[View Helal_Tester_CV](https://github.com/MahmodHelal/Helal_Tester_CV)**
